@@ -1,1 +1,1 @@
-token_tg='6380373553:AAFKCOjpoJ0gfP-XNdvIdiQgWlQ5A5xBWM0'
+token_tg='your token_tg'
